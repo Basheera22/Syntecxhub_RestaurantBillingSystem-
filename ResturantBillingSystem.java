@@ -1,7 +1,7 @@
 import java.util.*;
 
 // Main class
-public class ReasturantBillingSystem {
+public class ResturantBillingSystem {
 
     // Inner class for Menu Items
     static class MenuItem {
@@ -148,4 +148,5 @@ public class ReasturantBillingSystem {
             }
         }
     }
+
 }
