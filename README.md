@@ -1,10 +1,10 @@
 Syntecxhub_RestaurantBillingSystem
 
-PROJECT DESCRIPTION
+PROJECT DESCRIPTION:
 
 The Restaurant Billing System is a Java-based console application designed to handle restaurant billing operations.It supports dynamic menu management, order processing, GST calculation, and generates itemized receipts for customers.
 
-FEATURES
+FEATURES:
 
 1.Dynamic Menu (add, update, remove items)  
 
@@ -16,7 +16,7 @@ FEATURES
 
 5.Simple Console Interface (easy to run)
 
-TECHNOLOGY USED
+TECHNOLOGY USED:
 
 1.Language: Java (JDK 8+)
 
@@ -24,12 +24,13 @@ TECHNOLOGY USED
 
 3.Tools: Any IDE (IntelliJ, Eclipse, VS Code) or command line
 
-HOW TO RUN
+HOW TO RUN:
 
 1.Compile the program using:  javac RestaurantBillingSystem.java
 2.Run the program using:  java RestaurantBillingSystem.
 
-SAMPLE OUTPUT
+SAMPLE OUTPUT:
+
 It is a console-based billing system where you can view the menu, place orders, and generate receipts.
 
 Welcome to XYZ Restaurant
