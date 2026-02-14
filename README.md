@@ -27,6 +27,7 @@ TECHNOLOGY USED:
 HOW TO RUN:
 
 1.Compile the program using:  javac RestaurantBillingSystem.java
+
 2.Run the program using:  java RestaurantBillingSystem.
 
 SAMPLE OUTPUT:
