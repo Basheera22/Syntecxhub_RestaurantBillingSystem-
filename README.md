@@ -7,15 +7,21 @@ The Restaurant Billing System is a Java-based console application designed to ha
 Features
 
 1.Dynamic Menu (add, update, remove items)  
+
 2.Order Management (multiple items with quantities)  
+
 3.Billing System (subtotal, GST, total)
+
 4.Itemized Receipt (clear breakdown of orders)
+
 5.Simple Console Interface (easy to run)
 
 Technology Used
 
 1.Language: Java (JDK 8+)
+
 2.Paradigm: Object-Oriented Programming
+
 3.Tools: Any IDE (IntelliJ, Eclipse, VS Code) or command line
 
 How to run:
